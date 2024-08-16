@@ -26,11 +26,7 @@ Welcome to my GitHub profile! I am a Computer Science and Engineering student wi
   _2019 – 2021_
 
 ## Skills
-- **Programming Languages:**
-  ![Java](https://raw.githubusercontent.com/openjdk/jdk/master/src/java.desktop/share/native/lib/images/logo-small.png)
-  ![Python](https://www.python.org/static/img/python-logo.png)
-  ![C](https://upload.wikimedia.org/wikipedia/commons/1/18/C_logo.svg)
-  ![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/C%logo.svg)
+- **Programming Languages:** Java, Python, C, C++
 - **Web Development:** HTML, CSS, JavaScript (Basic)
 - **Database Management:** SQL, Database Administration
 - **Operating Systems:** Kali Linux, Ubuntu, Windows
